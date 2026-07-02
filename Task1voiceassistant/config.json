@@ -1,0 +1,13 @@
+{
+  "openweathermap_api_key": "",
+  "email": {
+    "sender_address": "",
+    "sender_app_password": "",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+  },
+  "custom_commands": {
+    "open notes": "Sure, opening your notes app placeholder.",
+    "tell me a joke": "Why do programmers prefer dark mode? Because light attracts bugs!"
+  }
+}
